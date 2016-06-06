@@ -1,0 +1,30 @@
+{
+  "name": "aetm-angular-cordova-toast",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./dist/aetm-angular-cordova-toast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexetmanon/aetm-angular-cordova-toast.git"
+  },
+  "keywords": [
+    "angularjs",
+    "angular",
+    "cordova",
+    "toast"
+  ],
+  "author": "Alexandre Bonhomme <wall-e@alexetmanon.com> (http://www.alexetmanon.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexetmanon/aetm-angular-cordova-toast/issues"
+  },
+  "homepage": "https://github.com/alexetmanon/aetm-angular-cordova-toast#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3"
+  }
+}
